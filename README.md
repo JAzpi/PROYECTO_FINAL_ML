@@ -21,6 +21,3 @@ Información y glosario:
 
 - jazpiazu1@yahoo.es
 
-
-
-- luismiguel.andujar@thebridgeschool.es
