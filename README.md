@@ -1,7 +1,7 @@
 # PROYECTO_FINAL_ML
 Ejercicio final del Bootcamp de Machine Leraning The BRIDGE
 
-![CANCELLED]([
+![CANCELLED](hospitality-businesses-suffer-half-term-holiday-cancelations-due-to-south-west-waters-water-poisoning-scandal.jpg)
 
 # Bootcamp - Data Science
 
