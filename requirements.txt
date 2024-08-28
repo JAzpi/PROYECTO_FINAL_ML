@@ -1,0 +1,10 @@
+openpyxl
+pandas>=1.6
+ipykernel
+matplotlib
+seaborn
+ydata-profiling
+numpy<=2.0
+scikit-learn>=1.5.1
+xgboost
+imblearn

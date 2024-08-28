@@ -1,0 +1,1 @@
+Contiene los modelos entrenados para su uso posterior.
