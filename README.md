@@ -1,7 +1,7 @@
 # PROYECTO_FINAL_ML
 Ejercicio final del Bootcamp de Machine Leraning The BRIDGE
 
-![The Bridge](./assets/img/TheBridge_logo.png)
+![CANCELLED](https://example.com/imagen.png)
 
 # Bootcamp - Data Science
 
@@ -18,6 +18,6 @@ Información y glosario:
 ### Autor
 
  *Juan Azpiazu*
-
 - jazpiazu1@yahoo.es
 
+Tutor: Iraitz https://github.com/IraitzTB/TheBridge_DSPT_ML/commits?author=IraitzM 
